@@ -23,6 +23,11 @@ code {
   padding: 25px;
 }
 
+.dashboard-container .dashboard-input-group {
+  float: right;
+  width: 40%;
+}
+
 .card-component {
   border: none !important;
 }
